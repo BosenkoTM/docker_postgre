@@ -1,6 +1,6 @@
 
 
-# Frictionless Local Postgres with Docker Compose
+# Беспроблемный локальный Postgres с Docker Compose
 
 Первые шаги.
 
