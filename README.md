@@ -2,14 +2,7 @@
 
 # Frictionless Local Postgres with Docker Compose
 
-Steps to try out the sample.
-
-
-проверить код
-запустить postgres и pgAdmin, используяdocker-compose up
-С помощью браузера перейдите в localhost:15432 консоль pgAdmin и изучите ее. Должно быть две базы данных demo1и demo2. pgAdmin не будет запрашивать пароли.
-запустите пример приложения весенней загрузки, ./mvnw spring-boot:run для работы этой команды вам потребуется установить Java 11 JDK. Если вас интересует только конфигурация docker-compose postgres, вы можете пропустить этот шаг.
-
+Первые шаги.
 
 * проверить код 
 * запустить postgres и pgAdmin запустив `docker-compose up` из каталога
